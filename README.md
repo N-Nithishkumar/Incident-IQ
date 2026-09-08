@@ -24,19 +24,21 @@ and generating detailed AI-powered Root Cause Analysis (RCA) reports with confid
 
 #  System Architecture
 
-![System Architecture](Project/Diagrams/System_Architecture.jpeg)
+![Uploading System_Architecture.jpeg…]()
+
 
 ---
 
 #  AI Multi-Agent RCA Flow
 
-![AI Agent Flow](Project/Diagrams/MultiAgent_WorkFlow.jpeg)
+![Uploading MultiAgent_WorkFlow.jpeg…]()
+
 
 ---
 
 #  User Workflow
 
-![User Flow](Project/Diagrams/UserWorkFlow.jpeg)
+![Uploading UserWorkFlow.jpeg…]()
 
 ---
 
